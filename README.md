@@ -62,9 +62,13 @@ Evaluated the performance of different product categories and their impact on to
 ## 📸 Dashboard Preview
 
 ![Dashboard Overview](Dashboard Screenshots/dashboard.png)
+
 ![Product Analysis](Dashboard Screenshots/product By Quantity.png)
+
 ![Location Analysis](Dashboard Screenshots/location.png)
+
 ![Hour-wise Analysis](Dashboard Screenshots/hour.png)
+
 ![Size-wise Analysis](Dashboard Screenshots/size wise sale.png)
 
 ## 🚀 Skills Demonstrated
@@ -84,5 +88,6 @@ Kamlesh Kumar
 Aspiring Data Analyst | Excel & Python Developer | Open to Internship Opportunities
 
 LinkedIn: www.linkedin.com/in/kamleshkumar325
+
 GitHub: https://github.com/kamleshk64998-hash
 
